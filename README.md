@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ReidX7
-- 👀 I’m interested in Linux/Vim/Pixel Game Dev
-- 🌱 I’m currently learning Pixel Game Dev
+- 👀 I’m interested in Game Dev
+- 🌱 I’m currently learning Game Dev
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : ReidX7@proton.me
 - 😄 Pronouns: ...
