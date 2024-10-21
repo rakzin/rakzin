@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rakzin
+- 👋 Hi, I’m @Rakzin
 - 👀 I’m interested in Game Dev
 - 🌱 I’m currently learning Game Dev
 - 💞️ I’m looking to collaborate on ...
